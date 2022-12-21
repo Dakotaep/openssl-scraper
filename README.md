@@ -1,2 +1,2 @@
 # openssl-scraper
-Downloads OpenSSL Releases Repos. Builds static openssl binaries and extracts.
+Downloads OpenSSL releases tagged repo states. Builds static openssl binaries and extracts.
